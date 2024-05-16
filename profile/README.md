@@ -1,1 +1,2 @@
-# .github
+# Theory of Everything
+cover.png
