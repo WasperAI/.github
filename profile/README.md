@@ -1,2 +1,2 @@
 # Theory of Everything
-![cover.png](https://github.com/WasperAI/.github/igames/cover.png)
+![cover.png](https://github.com/WasperAI/.github/images/cover.png)
