@@ -1,2 +1,2 @@
 # Theory of Everything
-![cover.png](https://github.com/WasperAI/.github/images/cover.png)
+![123](https://github.com/WasperAI/.github/blob/main/images/cover.png)
